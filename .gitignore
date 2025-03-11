@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+.idea/
+.cursor/
+
+# Generated files
+*.log
+*.json
+*.csv
+
+# Cache and temp files
+.cache/
+.DS_Store
+
+# Generated results files
+patent_results_*.json
